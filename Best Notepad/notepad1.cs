@@ -809,8 +809,8 @@ namespace Best_Notepad
         private void calculatorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //this.Hide();
-            SecondCalculator.mainForm m = new SecondCalculator.mainForm();
-            m.ShowDialog();
+            //SecondCalculator.mainForm m = new SecondCalculator.mainForm();
+            //m.ShowDialog();
         }
     }
 }
